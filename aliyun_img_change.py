@@ -13,6 +13,7 @@ import logging
 
 '''
 create or delete an aliyun host image script
+Version: 1.0.0
 '''
 
 __author__='hoover'
